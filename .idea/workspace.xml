@@ -5,45 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41209412-67ed-4738-8b30-bf7fc7f66ccc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamental-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayKT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayMultiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array_Multidimensi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodExceptionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NonPrimitiveDataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimitiveDataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tai.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraySorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tutorial/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/forLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/formatString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fungsi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fungsiRekursif.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fungsiRekursif2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/funsiPersegi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operasiString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/verload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/txt.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tai.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tai.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -214,12 +177,23 @@
       <workItem from="1707098676827" duration="5641000" />
       <workItem from="1707191612077" duration="4970000" />
       <workItem from="1707271357776" duration="1596000" />
-      <workItem from="1707354170092" duration="21051000" />
+      <workItem from="1707354170092" duration="21799000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
