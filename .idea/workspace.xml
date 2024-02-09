@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41209412-67ed-4738-8b30-bf7fc7f66ccc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamental-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayKT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayMultiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Multidimensi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodExceptionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NonPrimitiveDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimitiveDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tai.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraySorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tutorial/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/formatString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fungsi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fungsiRekursif.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fungsiRekursif2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funsiPersegi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operasiString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/verload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/txt.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Dolanan.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2ac9xw1IL6mcyKJKYDov7n0Q5BE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Array.executor": "Run",
+    "Application.Array2.executor": "Run",
+    "Application.ArrayFilter.executor": "Run",
+    "Application.ArrayKT.executor": "Run",
+    "Application.ArrayMultiply.executor": "Run",
+    "Application.Array_Multidimensi.executor": "Run",
+    "Application.Dolanan.executor": "Run",
+    "Application.Exception.executor": "Run",
+    "Application.Exception2.executor": "Run",
+    "Application.ExceptionMethod.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Method.executor": "Run",
+    "Application.MethodException.executor": "Run",
+    "Application.MethodExceptionExample.executor": "Run",
+    "Application.NonPrimitiveDataType.executor": "Run",
+    "Application.Operator.executor": "Run",
+    "Application.PrimitiveDataType.executor": "Run",
+    "Application.Switch.executor": "Run",
+    "Application.TicketValidator.executor": "Run",
+    "Application.arrayOdd.executor": "Run",
+    "Application.arraySorting.executor": "Run",
+    "Application.forLoop.executor": "Run",
+    "Application.formatString.executor": "Run",
+    "Application.fungsi.executor": "Run",
+    "Application.fungsiRekursif.executor": "Run",
+    "Application.fungsiRekursif2.executor": "Run",
+    "Application.funsiPersegi.executor": "Run",
+    "Application.operasiString.executor": "Run",
+    "Application.string.executor": "Run",
+    "Application.stringBuilder.executor": "Run",
+    "Application.verload.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/user/the project/irfaan 17-01-24/projectone-web_app",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/home/user/Desktop/fullstack/backend/java/latihan/fundamental/untitled/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Exception2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exception2" />
+      <module name="fundamental-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tutorial.Main" />
+      <module name="fundamental-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tutorial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MethodException" />
+      <module name="fundamental-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodExceptionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MethodExceptionExample" />
+      <module name="fundamental-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="arraySorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arraySorting" />
+      <module name="fundamental-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MethodExceptionExample" />
+        <item itemvalue="Application.MethodException" />
+        <item itemvalue="Application.Exception2" />
+        <item itemvalue="Application.arraySorting" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.21-semeru-11.0.21-8336523bb0d9-577fdb13" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41209412-67ed-4738-8b30-bf7fc7f66ccc" name="Changes" comment="" />
+      <created>1704607250621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704607250621</updated>
+      <workItem from="1705565808347" duration="822000" />
+      <workItem from="1705632371238" duration="62000" />
+      <workItem from="1705655000575" duration="669000" />
+      <workItem from="1705909758108" duration="601000" />
+      <workItem from="1705935055385" duration="12527000" />
+      <workItem from="1705988185574" duration="7384000" />
+      <workItem from="1706012832845" duration="6858000" />
+      <workItem from="1706155332279" duration="7172000" />
+      <workItem from="1706255422358" duration="2757000" />
+      <workItem from="1706357289500" duration="6419000" />
+      <workItem from="1706494817510" duration="14088000" />
+      <workItem from="1706581859446" duration="4564000" />
+      <workItem from="1706632811068" duration="26751000" />
+      <workItem from="1706840853002" duration="8877000" />
+      <workItem from="1706919930805" duration="11541000" />
+      <workItem from="1707098676827" duration="5641000" />
+      <workItem from="1707191612077" duration="4970000" />
+      <workItem from="1707271357776" duration="1596000" />
+      <workItem from="1707354170092" duration="21051000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ArrayFilter.java</url>
+          <line>20</line>
+          <properties class="ArrayFilter">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array_Multidimensi.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
