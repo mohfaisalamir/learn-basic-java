@@ -4,7 +4,7 @@ import java.io.IOException;
 
 public class MethodExceptionExample {
     public static void main(String[] args) throws IOException {
-        FileInputStream fileInputStream = new FileInputStream("src/Tai.txt");
+        FileInputStream fileInputStream = new FileInputStream("src/nita.txt");
         FileInputStream fileInputStream1 = new FileInputStream("txt.txt");
 
         try {

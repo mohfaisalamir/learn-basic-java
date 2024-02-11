@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41209412-67ed-4738-8b30-bf7fc7f66ccc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/file/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tutorial2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nita.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/txt2.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tai.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tai.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MethodExceptionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MethodExceptionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tai.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tutorial/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tutorial/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/txt.txt" beforeDir="false" afterPath="$PROJECT_DIR$/txt.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +74,7 @@
     "Application.TicketValidator.executor": "Run",
     "Application.arrayOdd.executor": "Run",
     "Application.arraySorting.executor": "Run",
+    "Application.com.tutorial2.Main.executor": "Run",
     "Application.forLoop.executor": "Run",
     "Application.formatString.executor": "Run",
     "Application.fungsi.executor": "Run",
@@ -92,7 +101,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.com.tutorial2.Main">
     <configuration name="Exception2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exception2" />
       <module name="fundamental-java" />
@@ -127,20 +136,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arraySorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraySorting" />
+    <configuration name="com.tutorial2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tutorial2.Main" />
       <module name="fundamental-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tutorial2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.tutorial2.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MethodExceptionExample" />
         <item itemvalue="Application.MethodException" />
         <item itemvalue="Application.Exception2" />
-        <item itemvalue="Application.arraySorting" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +192,8 @@
       <workItem from="1707098676827" duration="5641000" />
       <workItem from="1707191612077" duration="4970000" />
       <workItem from="1707271357776" duration="1596000" />
-      <workItem from="1707354170092" duration="21799000" />
+      <workItem from="1707354170092" duration="23063000" />
+      <workItem from="1707525879471" duration="15087000" />
     </task>
     <servers />
   </component>
